@@ -27,8 +27,7 @@ TwinStop solves this problem by:
 
 ## Tech Stack
 
-- **Frontend** - HTML,CSS
-- **Backend** - Python(Flask)
+- Python(Flask)
 - **Database** - MySQL
 
 ---
