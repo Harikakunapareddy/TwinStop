@@ -35,7 +35,7 @@ TwinStop solves this problem by:
 ## How to Run
 1. Clone the repository and install dependencies
 2. Set up a MySQL database and update 'config.py' with your credentials.
-3. Run the app using flask run
+3. Run the app.
 4. Open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
 ## How it works
